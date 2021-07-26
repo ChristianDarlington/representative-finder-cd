@@ -1,0 +1,24 @@
+:root{
+  --blue:
+  --black:var(--blue)
+}
+
+
+body{
+background-color: lightpink;
+text-align: center;
+color: moccasin;
+text-transform: capitalize;
+}
+
+
+
+
+header{
+  text-align: center;
+  letter-spacing: 5px;
+  color: black;
+font-family: monospace;
+}
+
+
